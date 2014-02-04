@@ -1,6 +1,7 @@
-###MiniDragon Rescue Program
+##MiniDragon Rescue Program
 
-##Instructions
+###Instructions
+-----
 
 - Turn switches on board to flash mode.
 - Open ASM then load the .s29 file.
